@@ -5,3 +5,10 @@ get_simple_time_string in nodejs
 ```
 node test_gettime.js
 ```
+
+### output
+this time
+example:
+```
+20180802_1519
+```
